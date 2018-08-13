@@ -1,0 +1,86 @@
+.body {
+	background-image: url("img/background_green.png");
+}
+
+.name_tag {
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.faithless {
+	color: lightgray !important;
+}
+
+.kontainer {
+	color: white;
+	margin-top: 80px;
+}
+
+.infos {
+	margin-left: 200px;
+	margin-top: 160px;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+}
+
+.table_infos {
+	color: lightgray !important;
+}
+
+.ueber_uns {
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.trainingszeiten {
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.unser_team {
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.beitritt {
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.bottom-line {
+	text-align: center;
+	margin-top: 190px;
+}
+
+.bottom_table {
+	color: lightgray !important;
+	padding-right: 100px;
+	margin-left: 210px;
+	margin-top: 150px;
+}
+
+.pagetag {
+	margin-top: 40px;
+	color: lightgray !important;
+}
+
+.absatz_1 {
+	padding-top: 20px;
+	color: lightgray;
+}
+
+
+.t1 {
+	padding-right: 10px !important;
+}
+
+a:hover {
+	color: lightgreen !important;
+	transition: 0.15s;
+	text-decoration: none !important;
+}
